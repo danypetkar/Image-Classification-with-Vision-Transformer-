@@ -4,7 +4,7 @@ While the Transformer architecture has become the de-facto standard for natural 
 
 ## ViT Architecture
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Image-Classification-with-Vision-Transformer-/blob/main/Screenshot%202024-10-18%20154406.png)
 
 
 ## Model description
